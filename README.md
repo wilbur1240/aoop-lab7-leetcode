@@ -1,4 +1,4 @@
-# LeetCode-Style Lab
+# aoop-lab7-leetcode
 
 ## Problems
 
