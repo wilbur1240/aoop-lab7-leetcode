@@ -1,20 +1,20 @@
 # aoop-lab7-leetcode
 
-## Problems
+## Tasks
 
-### Problem 1: Two Sum (35 points)
+### Task 1: Two Sum (35 points)
 Find two numbers in an array that add up to a target value.
 
 **File:** `two_sum.py`
 **LeetCode:** [Problem 1](https://leetcode.com/problems/two-sum/)
 
-### Problem 2: Valid Palindrome (30 points)
+### Task 2: Valid Palindrome (30 points)
 Check if a string is a palindrome, ignoring non-alphanumeric characters.
 
 **File:** `valid_palindrome.py`
 **LeetCode:** [Problem 125](https://leetcode.com/problems/valid-palindrome/)
 
-### Problem 3: Merge Sorted Array (35 points)
+### Task 3: Merge Sorted Array (35 points)
 Merge two sorted arrays in-place.
 
 **File:** `merge_sorted.py`
